@@ -4,7 +4,7 @@ A lightweight template for getting started with Vagrant and Chef.
 
 ## Why?
 
-- Faciliates setting up new projects.
+- Facilitates setting up new projects.
 - Repository can be cloned and easily set up as a new project.
 
 ## How to Use It
